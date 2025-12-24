@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kggd&label=Profile%20views&color=0e75b6&style=flat" alt="kggd" /> </p>
-
 <h1 align="center">Hi 👋, I'm Kezyah-Garvey Govindin-Douglas</h1>
 <h3 align="left">A passionate of IT</h3>
 
